@@ -1,1 +1,1 @@
-# WillBerries
+# WillBerries Учебный проект, выполненный в ходе просмотра интенсива от GloAcademy.
